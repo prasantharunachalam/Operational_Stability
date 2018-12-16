@@ -1,2 +1,2 @@
 # Operational_Stability
-AI Ops for Operational Stability
+AI for Operational Stability
